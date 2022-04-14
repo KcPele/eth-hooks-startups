@@ -6,7 +6,7 @@
   import "./IWhitelist.sol";
 
 
-//0x5E35a708d614cCBE377C6493c37c1f493887750C contract address
+//0x82374edA523E1e61E051874d2578D3fEA89540D2 contract address
 
   contract CryptoDevs is ERC721Enumerable, Ownable {
       /**
